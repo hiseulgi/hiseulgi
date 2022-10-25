@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hi, everyone! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<br>
 
-<!--
-**hiseulgi/hiseulgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Bagus and **welcome to my ugly repository**, hope it's useful. 🥰
+#
+<div align="left">
+    <a href="#">
+        <img alt="Visitor" src="https://visitor-badge.laobi.icu/badge?page_id=hiseulgi.hiseulgi">
+    </a>
+    <a href="https://github.com/irhamumam17?tab=followers">
+        <img alt="GitHub followers" src="https://img.shields.io/github/followers/hiseulgi?color=green&logo=github">
+    </a>
+</div>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying on **Politeknik Negeri Semarang**
+- 🌱 I’m currently learning **Flutter and Python**
+- 📚 I’m interested in **data science, machine learning and IoT**
+- 📫 How to reach me **sugabida@gmail.com**
+- ⚡ Fun fact **I very like anime**
+<!-- - 🌱 I’m currently working with **Laravel** -->
+<!-- - 👨‍💻 All of my projects are available at [https://me.yohiso.com](https://me.yohiso.com) -->
+<!-- - 💬 Ask me about **Laravel** -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Profile Statistics
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiseulgi&count_private=true&include_all_commits=true&theme=algolia&show_icons=true&locale=en" alt="hiseulgi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiseulgi&theme=algolia&show_icons=true&locale=en&layout=compact" alt="hiseulgi" /></p>
