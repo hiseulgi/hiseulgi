@@ -3,6 +3,19 @@
 
 I am Bagus and **welcome to my ugly repository**, hope it's useful. 🥰
 #
+<br>
+
+- 🔭 I’m currently studying on **Semarang State Polytechnic**
+- 🌱 I’m currently learning **Flutter and Python**
+- 📚 I’m interested in **data science, machine learning, and IoT**
+- 📫 How to reach me **sugabida@gmail.com**
+- ⚡ Fun fact **I very like anime**
+<!-- - 🌱 I’m currently working with **Laravel** -->
+<!-- - 👨‍💻 All of my projects are available at [https://me.yohiso.com](https://me.yohiso.com) -->
+<!-- - 💬 Ask me about **Laravel** -->
+#
+
+### 📊 Profile Statistics
 <div align="left">
     <a href="#">
         <img alt="Visitor" src="https://visitor-badge.laobi.icu/badge?page_id=hiseulgi.hiseulgi">
@@ -12,15 +25,5 @@ I am Bagus and **welcome to my ugly repository**, hope it's useful. 🥰
     </a>
 </div>
 
-- 🔭 I’m currently studying on **Politeknik Negeri Semarang**
-- 🌱 I’m currently learning **Flutter and Python**
-- 📚 I’m interested in **data science, machine learning and IoT**
-- 📫 How to reach me **sugabida@gmail.com**
-- ⚡ Fun fact **I very like anime**
-<!-- - 🌱 I’m currently working with **Laravel** -->
-<!-- - 👨‍💻 All of my projects are available at [https://me.yohiso.com](https://me.yohiso.com) -->
-<!-- - 💬 Ask me about **Laravel** -->
-
-### 📊 Profile Statistics
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiseulgi&count_private=true&include_all_commits=true&theme=algolia&show_icons=true&locale=en" alt="hiseulgi" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiseulgi&theme=algolia&show_icons=true&locale=en&layout=compact" alt="hiseulgi" /></p>
