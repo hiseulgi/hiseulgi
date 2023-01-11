@@ -8,7 +8,7 @@ I am Bagus and **welcome to my ugly repository**, hope it's useful. 🥰
 - 🔭 I’m currently studying on **Semarang State Polytechnic**
 - 🌱 I’m currently learning **data analytics**
 - 📚 I’m interested in **data analytics, data science, machine learning, and IoT**
-- 📫 How to reach me **sugabida@gmail.com**
+- 📫 How to reach me **sugabida@gmail.com** or my [LinkedIn](https://www.linkedin.com/in/bagusprayoga)
 - ⚡ Fun fact **I very like anime**
 <!-- - 🌱 I’m currently working with **Laravel** -->
 <!-- - 👨‍💻 All of my projects are available at [https://me.yohiso.com](https://me.yohiso.com) -->
