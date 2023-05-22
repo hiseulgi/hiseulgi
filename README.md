@@ -6,8 +6,8 @@ I am Bagus and **welcome to my ugly repository**, hope it's useful. 🥰
 <br>
 
 - 🔭 I’m currently studying on **Semarang State Polytechnic**
-- 🌱 I’m currently learning **data analytics**
-- 📚 I’m interested in **data analytics, data science, machine learning, and IoT**
+- 🌱 I’m currently learning **computer vision**
+- 📚 I’m interested in **computer vision, machine learning, and data science**
 - 📫 How to reach me **sugabida@gmail.com** or my [LinkedIn](https://www.linkedin.com/in/bagusprayoga)
 - ⚡ Fun fact **I very like anime**
 <!-- - 🌱 I’m currently working with **Laravel** -->
@@ -20,7 +20,7 @@ I am Bagus and **welcome to my ugly repository**, hope it's useful. 🥰
     <a href="#">
         <img alt="Visitor" src="https://visitor-badge.laobi.icu/badge?page_id=hiseulgi.hiseulgi">
     </a>
-    <a href="https://github.com/irhamumam17?tab=followers">
+    <a href="https://github.com/hiseulgi?tab=followers">
         <img alt="GitHub followers" src="https://img.shields.io/github/followers/hiseulgi?color=green&logo=github">
     </a>
 </div>
