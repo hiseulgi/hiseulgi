@@ -6,8 +6,8 @@ I am Bagus and **welcome to my ugly repository**, hope it's useful. 🥰
 <br>
 
 - 🔭 I’m currently studying on **Semarang State Polytechnic**
-- 🌱 I’m currently learning **computer vision**
-- 📚 I’m interested in **computer vision, machine learning, and data science**
+- 🌱 I’m currently learning **computer vision** and **go**
+- 📚 I’m interested in **computer vision, machine learning, and back end development**
 - 📫 How to reach me **sugabida@gmail.com** or my [LinkedIn](https://www.linkedin.com/in/bagusprayoga)
 - ⚡ Fun fact **I very like anime**
 <!-- - 🌱 I’m currently working with **Laravel** -->
