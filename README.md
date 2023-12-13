@@ -1,7 +1,7 @@
 <h1 align="center">Hi, everyone! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <br>
 
-I am Bagus and **welcome to my ugly repository**, hope it's useful. 🥰
+I am Bagus and **welcome to my repository**, hope it's useful. 🥰
 #
 <br>
 
