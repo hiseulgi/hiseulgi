@@ -1,9 +1,6 @@
 <h1 align="center">Hi, everyone! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <br>
 
-#
-<br>
-
 - 🔭 I’m currently studying on **Semarang State Polytechnic**
 - 🌱 I’m currently learning **computer vision** and **mlops**
 - 📚 I’m interested in **computer vision, machine learning, and back end development**
