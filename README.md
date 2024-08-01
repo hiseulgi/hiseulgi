@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying on **Semarang State Polytechnic**
 - 🌱 I’m currently learning **computer vision** and **mlops**
 - 📚 I’m interested in **computer vision, machine learning, and back end development**
-- 📫 How to reach me **sugabida@gmail.com** or my [LinkedIn](https://www.linkedin.com/in/bagusprayoga)
+- 📫 How to reach me **bagus.mbap@gmail.com** or my [LinkedIn](https://www.linkedin.com/in/bagusprayoga)
 - ⚡ Fun fact **I very like anime**
 #
 
