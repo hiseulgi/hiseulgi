@@ -1,7 +1,8 @@
 <h1 align="center">Hi, everyone! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <br>
 
-![Ketawa Ngakak GIF](https://tenor.com/view/ketawa-ngakak-lucu-funy-miftah-gif-1154390126592383835)
+<img src="https://tenor.com/view/ketawa-ngakak-lucu-funy-miftah-gif-1154390126592383835">
+
 
 <br>
 
