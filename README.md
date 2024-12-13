@@ -5,7 +5,7 @@
     <img src="https://media1.tenor.com/m/EAU3tDPB21sAAAAd/ketawa-ngakak.gif">
 </div>
 
-<br>
+---
 
 - 🔭 I’m currently working at **Widya Robotics** as **AI Vision Engineer**
 - 🌱 I’m currently learning **computer vision** and **mlops**
