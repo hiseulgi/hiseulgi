@@ -1,8 +1,9 @@
 <h1 align="center">Hi, everyone! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <br>
 
-<img src="https://media1.tenor.com/m/EAU3tDPB21sAAAAd/ketawa-ngakak.gif">
-
+<div align="center">
+    <img src="https://media1.tenor.com/m/EAU3tDPB21sAAAAd/ketawa-ngakak.gif">
+</div>
 
 <br>
 
