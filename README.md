@@ -1,7 +1,7 @@
-<h1 align="center">Hi, everyone! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>ee
+<h1 align="center">Hi, everyone! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <br>
 
-<div class="tenor-gif-embed" data-postid="1154390126592383835" data-share-method="host" data-aspect-ratio="0.616466" data-width="100%"><a href="https://tenor.com/view/ketawa-ngakak-lucu-funy-miftah-gif-1154390126592383835">Ketawa Ngakak GIF</a>from <a href="https://tenor.com/search/ketawa-gifs">Ketawa GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Ketawa Ngakak GIF](https://tenor.com/view/ketawa-ngakak-lucu-funy-miftah-gif-1154390126592383835)
 
 <br>
 
