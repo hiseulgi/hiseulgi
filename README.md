@@ -10,7 +10,6 @@
 - 🔭 I’m currently working at **Widya Robotics** as **AI Vision Engineer**
 - 🌱 I’m currently learning **computer vision** and **mlops**
 - 📚 I’m interested in **computer vision, machine learning, and back end development**
-- 📫 How to reach me **bagus.mbap@gmail.com** or my [LinkedIn](https://www.linkedin.com/in/bagusprayoga)
 - ⚡ Fun fact **I very like anime**
 #
 
@@ -24,5 +23,8 @@
     </a>
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiseulgi&count_private=true&include_all_commits=true&theme=algolia&show_icons=true&locale=en" alt="hiseulgi" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiseulgi&theme=algolia&show_icons=true&locale=en&layout=compact" alt="hiseulgi" /></p>
+<div align="left">
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiseulgi&count_private=true&include_all_commits=true&theme=algolia&show_icons=true&locale=en" alt="hiseulgi" /></p>
+    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiseulgi&theme=algolia&show_icons=true&locale=en&layout=compact" alt="hiseulgi" /></p>
+</div>
+
