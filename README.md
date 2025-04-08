@@ -2,7 +2,8 @@
 <br>
 
 <div align="center">
-    <img src="https://media1.tenor.com/m/EAU3tDPB21sAAAAd/ketawa-ngakak.gif">
+    <!-- <img src="https://media1.tenor.com/m/EAU3tDPB21sAAAAd/ketawa-ngakak.gif"> -->
+    <img src="https://media1.tenor.com/m/3KA0kR_r8W4AAAAd/fun-memes.gif">
 </div>
 
 ---
